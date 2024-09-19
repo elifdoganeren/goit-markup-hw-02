@@ -134,10 +134,10 @@ body {
 
 .footer {
   background-color: #2e2f42;
+  font-weight: 700;
 }
 
 .footer-text {
-  font-weight: 700;
   size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
