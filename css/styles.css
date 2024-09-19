@@ -134,7 +134,7 @@ body {
 
 .footer {
   background-color: #2e2f42;
-  font-weight: 700;
+
 }
 
 .footer-text {
@@ -146,4 +146,5 @@ body {
 
 .logo-footer {
   color: #f4f4fd;
+    font-weight: 700;
 }
