@@ -148,3 +148,7 @@ body {
   color: #f4f4fd;
     font-weight: 700;
 }
+
+.list li {
+  background-color: #fff;
+}
